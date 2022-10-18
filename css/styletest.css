@@ -1,0 +1,9 @@
+.nav {
+  /*test*/
+  text-align: center;
+}
+
+.nav li{
+  /*test*/
+  display:inline-block;
+}
