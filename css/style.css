@@ -17,7 +17,10 @@ h5, p{
 h3, h4, li{
   text-align: left;
   color: white;
-  line-height: 125%;
+}
+
+ol{
+  line-height: 135%;
 }
 
 
