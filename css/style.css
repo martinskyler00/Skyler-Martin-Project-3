@@ -1,5 +1,5 @@
 body{
-  background-image: linear-gradient(to right, #5ab9ea, purple), url("./pattern2.png");
+  background-image: linear-gradient(to right, #5ab9ea, purple);
   background-attachment: scroll;
 }
 
