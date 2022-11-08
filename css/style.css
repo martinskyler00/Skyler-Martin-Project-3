@@ -31,6 +31,7 @@ table, td{
   table-layout: fixed;
   border-collapse: collapse;
   color: white;
+  padding: 20px;
 }
 
 .columnHeader{
