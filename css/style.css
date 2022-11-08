@@ -37,12 +37,12 @@ table, td{
   text-align: center;
 }
 
-#information::after{
+.information::after{
   content: "\a";
   white-space: pre;
 }
 
-#location::after{
+.location::after{
   content: "\a";
   white-space: pre;
 }
