@@ -37,12 +37,7 @@ table, td{
   text-align: center;
 }
 
-.information::after{
-  content: "\a";
-  white-space: pre;
-}
-
-.location::after{
+span::after{
   content: "\a";
   white-space: pre;
 }
@@ -53,7 +48,6 @@ img{
 }
 
 .column{
-  float: auto;
   width: auto;
   padding: 6px;
   image-rendering: crisp-edges;
@@ -73,10 +67,6 @@ video {
   margin: auto;
   width: 720px;
   height: 450px;
-}
-
-.active{
-  background-color: #8E8D8A;
 }
 
 .nav {
